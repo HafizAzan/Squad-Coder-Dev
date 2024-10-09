@@ -1,7 +1,7 @@
 "use client";
 import CustomImgArrow from "components/CustomImgArrow/CustomImgArrow";
 import { CustomTypography } from "components/CustomText/CustomText";
-import CustomTextWithImage from "components/CustomTextWithImage/CustomTextwithImage";
+import CustomTextWithImage from "components/CustomTextWithImage/CustomTextWithImage";
 import ScrollingAnimationWithGsap from "Gsap/ScrollingAnimation";
 import { imageUrl } from "imageConstant/ImagesUrl";
 import Image from "next/image";

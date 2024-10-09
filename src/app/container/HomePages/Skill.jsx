@@ -1,6 +1,6 @@
 import CustomImgArrow from "components/CustomImgArrow/CustomImgArrow";
 import { imageUrl } from "imageConstant/ImagesUrl";
-import CustomTextWithImage from "components/CustomTextWithImage/CustomTextwithImage";
+import CustomTextWithImage from "components/CustomTextWithImage/CustomTextWithImage";
 import React, { memo } from "react";
 import { CustomTypography } from "components/CustomText/CustomText";
 import Link from "next/link";
